@@ -4,8 +4,6 @@
 
 Samuel García
 
-IES Juan Bosco
-
-Alcazar de San Juan
+IES Juan Bosco. Alcazar de San Juan.
 
 
